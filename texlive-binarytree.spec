@@ -1,6 +1,6 @@
 Name:		texlive-binarytree
 Version:	41777
-Release:	1
+Release:	2
 Summary:	Drawing binary trees using TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/binarytree
