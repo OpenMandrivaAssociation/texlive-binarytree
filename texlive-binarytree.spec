@@ -3,7 +3,7 @@ Version:	41777
 Release:	2
 Summary:	Drawing binary trees using TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/binarytree
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/binarytree
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/binarytree.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/binarytree.doc.r%{version}.tar.xz
